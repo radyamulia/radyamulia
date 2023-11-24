@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently focus on learning: ReactJS, NextJS, Ionic, Typescript
+Currently focus on learning: ReactJS, NextJS, Typescript, Kotlin, Compose
 
 Reach me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/radyamulia) 
 
