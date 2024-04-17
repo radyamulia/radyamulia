@@ -3,8 +3,8 @@
 </div>
 <div align="center">
   <p><i>🎯 Interest: <b>Fullstack Web Development</b></i></p>
-  <p><i>🌱 Techs I frequently used: <b>ReactJS, Typescript</b></i></p>
-  <p><i>💡 Techs I currently mastering: <b>NextJS, Laravel</b></i></p>
+  <p><i>🌱 Techs I frequently used: <b>NextJS, ReactJS, Typescript</b></i></p>
+  <p><i>💡 Techs I currently mastering: <b>NextJS, Typescript, Laravel</b></i></p>
 </div>
 
 <div align="center">
