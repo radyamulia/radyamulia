@@ -4,7 +4,7 @@
 <div align="center">
   <p><i>🎯 Interest: <b>Fullstack Web Development</b></i></p>
   <p><i>🌱 Techs I frequently used: <b>NextJS, ReactJS, Typescript</b></i></p>
-  <p><i>💡 Techs I currently mastering: <b>NextJS, Laravel, React Native</b></i></p>
+  <p><i>💡 Techs I currently mastering: <b>NextJS, Laravel, Flutter</b></i></p>
 </div>
 
 <div align="center">
